@@ -127,7 +127,7 @@ python3 testcase_gen.py --N 20 --M 20 --K 5 --J 4 --mode constructive --count 1 
 
 See how your metro system gets planned:
 
-![Metro Map Example](example.png)
+![Metro Map Example](example.png "Example metro map solution")
 
 ## Project Structure
 
